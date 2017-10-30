@@ -1,9 +1,11 @@
 import React from 'react';
 
 function Emojis (props) {
-	return(
-		<span>Emoji 1</	span>
-	)
+	return props.parentState.map(function(number){
+		return (
+			<span>{number}</span>
+		)
+	})
 }
 
 export default Emojis;
