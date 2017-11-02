@@ -22,8 +22,4 @@ class App extends Component {
     }
 }
 
-<<<<<<< HEAD
 //export default App;
-=======
-export default App;
->>>>>>> parent of bc88bef... clean file
