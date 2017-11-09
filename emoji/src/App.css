@@ -7,6 +7,10 @@
   height: 80px;
 }
 
+.singleEmoji{
+  cursor: pointer;
+}
+
 .App-header {
   background-color: #222;
   height: 150px;
